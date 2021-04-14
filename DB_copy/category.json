@@ -1,0 +1,61 @@
+{
+    "001":{
+        "number": "001", 
+        "name": "Bulbasaur", 
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "evolutions":[
+            {
+                "number": "002",
+                "name": "Ivysaur",
+                "types":[
+                    "Grass",
+                    "Poison"
+                ]
+            },
+            {
+                "number": "003", 
+                "name": "Venusaur", 
+                "types": [
+                    "Grass",
+                    "Poison"
+                ]
+            }
+        ]
+    },
+    "002":{
+        "number": "002", 
+        "name": "Ivysaur", 
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "evolutions":[
+            {
+                "number": "003", 
+                "name": "Venusaur", 
+                "types": [
+                    "Grass",
+                    "Poison"
+                ]
+            }
+        ]
+    },
+    "003":{
+        "number": "003", 
+        "name": "Venusaur", 
+        "types": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    "004":{
+        "number": "004", 
+        "name": "Charmander", 
+        "types": [
+            "Fire"
+        ]
+    }
+}
